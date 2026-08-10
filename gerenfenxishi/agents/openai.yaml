@@ -1,0 +1,7 @@
+interface:
+  display_name: "个人分析师"
+  short_description: "自动选择合适框架，给出可执行、可复查的人生选择建议"
+  default_prompt: "Use $gerenfenxishi to analyze my current life decision and recommend the next safe, testable action."
+
+policy:
+  allow_implicit_invocation: true
